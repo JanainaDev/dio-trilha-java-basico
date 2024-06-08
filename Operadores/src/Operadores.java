@@ -8,6 +8,7 @@ public class Operadores {
 }
 /* Operador de atribuição '=' símbolo de igual 
  * Operador aritméticos: '+ - / *' adição, subtração, multiplicação e divisão
- * Operador lógico
+ * Operador lógico:
  * 
+ * Operador unário: aplicado junto com operador aritmético (incrementar, decrementar)
 */
