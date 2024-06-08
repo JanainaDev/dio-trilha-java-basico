@@ -10,5 +10,6 @@ public class Operadores {
  * Operador aritméticos: '+ - / *' adição, subtração, multiplicação e divisão
  * Operador lógico:
  * 
+ * 
  * Operador unário: aplicado junto com operador aritmético (incrementar, decrementar)
 */
