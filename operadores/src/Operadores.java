@@ -9,5 +9,5 @@ public class Operadores {
 /* Operador de atribuição '=' símbolo de igual 
  * Operador aritméticos: '+ - / *' adição, subtração, multiplicação e divisão
  * Operador lógico:
- * Operador unário: aplicado junto com operador aritmético (incrementar, decrementar)
+ * Operador unário: aplicado junto com operador aritmético (incrementar ++, decrementar --, lógico de negação'!'')
 */
