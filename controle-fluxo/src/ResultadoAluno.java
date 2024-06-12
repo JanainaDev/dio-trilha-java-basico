@@ -11,3 +11,7 @@ public class ResultadoAluno {
         }
     }
 }
+/*Usando condição ternária
+String  resultado = nota>=7 ? "Aprovado" : "Reprovado"
+System.out.print(resultado);
+*/ 
