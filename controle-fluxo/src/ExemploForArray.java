@@ -8,3 +8,9 @@ public class ExemploForArray {
     }
     
 }
+
+/* for each
+ * for(String aluno : alunos){
+ * System.out.print("Nome do aluno é: " + aluno);
+ * }
+ */
