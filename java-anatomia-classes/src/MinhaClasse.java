@@ -15,6 +15,7 @@ public static String nomeCompleto(String primeiroNome, String segundoNome){
     //return "Resultado do método ".concat(primeiroNome).concat(" ").concat(segundoNome); é uma outra opção de concatenar
     
     /*  da pra concatenar com símbolo de + ou usando concat, na linha acima
-    foi usado as 2 formas */
+    foi usado as 2 formas
+    nome de variàvel: começar com letra minúscula e a segunda palavra com maiúscula (anoFabricacao, camelCase) */
     }
 }
